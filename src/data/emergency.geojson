@@ -1,0 +1,2242 @@
+{
+  "type": "FeatureCollection",
+  "name": "Hyderabad_Emergency",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "up_hyd_0360",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.476256,
+          17.388873
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0360",
+        "name": "Abids Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Abids, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.476256,
+          17.388873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.489865,
+          17.397892
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0361",
+        "name": "Narayanguda Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Narayanguda, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.489865,
+          17.397892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0362",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.470624,
+          17.382724
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0362",
+        "name": "Begum Bazaar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Begum Bazaar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.470624,
+          17.382724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.497066,
+          17.4308
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0363",
+        "name": "Gandhinagar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Gandhinagar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.497066,
+          17.4308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0364",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.500298,
+          17.419388
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0364",
+        "name": "Musheerabad Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Musheerabad, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.500298,
+          17.419388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.497447,
+          17.408859
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0365",
+        "name": "Chikkadpally Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Chikkadpally, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.497447,
+          17.408859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0366",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.457844,
+          17.398837
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0366",
+        "name": "Nampally Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Nampally, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.457844,
+          17.398837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.513527,
+          17.430752
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0367",
+        "name": "Ramgopalpet Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Ramgopalpet, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.513527,
+          17.430752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.462814,
+          17.402668
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0368",
+        "name": "Saifabad Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Saifabad, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.462814,
+          17.402668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.487361,
+          17.38861
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0369",
+        "name": "Sulthan Bazaar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Sulthan  Bazaar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.487361,
+          17.38861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0370",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.49181,
+          17.377947
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0370",
+        "name": "Chaderghat Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Chaderghat, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.49181,
+          17.377947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0371",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.475306,
+          17.372341
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0371",
+        "name": "Afzalgunj Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Afzalgunj, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.475306,
+          17.372341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.500305,
+          17.388229
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0372",
+        "name": "Kachiguda Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Kachiguda, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.500305,
+          17.388229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.513313,
+          17.407593
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0373",
+        "name": "Nallakunta Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Nallakunta, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.513313,
+          17.407593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.525839,
+          17.421177
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0374",
+        "name": "Osmania University Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Osmania University, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.525839,
+          17.421177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.51197,
+          17.370514
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0375",
+        "name": "Malakpet Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Malakpet, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.51197,
+          17.370514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0376",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.519442,
+          17.36138
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0376",
+        "name": "Saidabad Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Saidabad, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.519442,
+          17.36138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.516883,
+          17.390077
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0377",
+        "name": "Amberpet Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Amberpet, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.516883,
+          17.390077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0378",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.436494,
+          17.421984
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0378",
+        "name": "Banjara Hills Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Banjara Hills, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.436494,
+          17.421984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0379",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.40907,
+          17.43059
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0379",
+        "name": "Jubilee Hills Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Jubilee Hills, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.40907,
+          17.43059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0380",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.452247,
+          17.426407
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0380",
+        "name": "Punjagutta Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Punjagutta, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.452247,
+          17.426407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0381",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.447726,
+          17.441401
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0381",
+        "name": "SR Nagar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "SR Nagar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.447726,
+          17.441401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.452334,
+          17.389553
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0382",
+        "name": "Asifnagar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Asifnagar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.452334,
+          17.389553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0383",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.442147,
+          17.395605
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0383",
+        "name": "Humayunnagar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Humayunnagar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.442147,
+          17.395605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.421412,
+          17.378231
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0384",
+        "name": "Lunger House Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Lunger House, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.421412,
+          17.378231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.405759,
+          17.39029
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0385",
+        "name": "Golconda Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Golconda, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.405759,
+          17.39029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44844,
+          17.374918
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0386",
+        "name": "Tappachabutra Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Tappachabutra, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.44844,
+          17.374918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.470883,
+          17.377509
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0387",
+        "name": "Shahinayathgunj Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Shahinayathgunj, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.470883,
+          17.377509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0388",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.462849,
+          17.389869
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0388",
+        "name": "Habeebnagar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Habeebnagar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.462849,
+          17.389869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.447832,
+          17.369106
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0389",
+        "name": "Kulsumpura Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Kulsumpura, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.447832,
+          17.369106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.460786,
+          17.378411
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0390",
+        "name": "Mangalhat Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Mangalhat, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.460786,
+          17.378411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.50206,
+          17.435416
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0391",
+        "name": "Gopalapuram Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Gopalapuram, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.50206,
+          17.435416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.518014,
+          17.445519
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0392",
+        "name": "Tukaramgate Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Tukaramgate, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.518014,
+          17.445519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.527955,
+          17.434591
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0393",
+        "name": "Lalaguda Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Lalaguda, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.527955,
+          17.434591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.513519,
+          17.430662
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0394",
+        "name": "Chilakalguda Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Chilakalguda, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.513519,
+          17.430662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.490949,
+          17.436063
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0395",
+        "name": "Mahankali Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Mahankali, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.490949,
+          17.436063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0396",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.495794,
+          17.433658
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0396",
+        "name": "Market Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Market, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.495794,
+          17.433658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0397",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.505477,
+          17.451409
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0397",
+        "name": "Marredupally Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Marredupally, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.505477,
+          17.451409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0398",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.500482,
+          17.461779
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0398",
+        "name": "Karkhana Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Karkhana, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.500482,
+          17.461779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0399",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47479,
+          17.444
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0399",
+        "name": "Begumpet Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Begumpet, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.47479,
+          17.444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0400",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.472892,
+          17.465159
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0400",
+        "name": "Bowenpally Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Bowenpally, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.472892,
+          17.465159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.356755,
+          17.542811
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0401",
+        "name": "Bollaram Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Bollaram, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.356755,
+          17.542811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.511463,
+          17.480216
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0402",
+        "name": "Trimulgherry Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Trimulgherry, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.511463,
+          17.480216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0403",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.474284,
+          17.362001
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0403",
+        "name": "Charminar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Charminar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.474284,
+          17.362001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0404",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.455347,
+          17.358608
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0404",
+        "name": "Bahadurpura Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Bahadurpura, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.455347,
+          17.358608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0405",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.460166,
+          17.355949
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0405",
+        "name": "Kamatipura Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Kamatipura, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.460166,
+          17.355949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4641,
+          17.35808
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0406",
+        "name": "Hussaini Alam Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Hussaini Alam, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.4641,
+          17.35808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0407",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.454168,
+          17.345457
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0407",
+        "name": "Kalapattar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Kalapattar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.454168,
+          17.345457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.480551,
+          17.363699
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0408",
+        "name": "Mirchowk Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Mirchowk, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.480551,
+          17.363699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0409",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.489263,
+          17.366644
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0409",
+        "name": "Dabeerpura Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Dabeerpura, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.489263,
+          17.366644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0410",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.478847,
+          17.350611
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0410",
+        "name": "Moghalpura Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Moghalpura, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.478847,
+          17.350611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0411",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.488439,
+          17.361846
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0411",
+        "name": "Rein Bazaar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Rein Bazaar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.488439,
+          17.361846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0412",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.468307,
+          17.334833
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0412",
+        "name": "Falaknuma Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Falaknuma, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.468307,
+          17.334833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.479678,
+          17.324988
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0413",
+        "name": "Chandrayangutta Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Chandrayangutta, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.479678,
+          17.324988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0414",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.469592,
+          17.344562
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0414",
+        "name": "Shalibanda Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Shalibanda, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.469592,
+          17.344562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0415",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47795,
+          17.343536
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0415",
+        "name": "Chatrinaka Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Chatrinaka, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.47795,
+          17.343536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.508334,
+          17.333679
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0416",
+        "name": "Kanchanbagah Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Kanchanbagah, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.508334,
+          17.333679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.487318,
+          17.354894
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0417",
+        "name": "Bhavani Nagar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Bhavani Nagar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.487318,
+          17.354894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.500014,
+          17.35815
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0418",
+        "name": "Madannapet Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Madannapet, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.500014,
+          17.35815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0419",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.504742,
+          17.346854
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0419",
+        "name": "Santoshnagar Police Station",
+        "category": "emergency",
+        "subcategory": "Police Station",
+        "address": "Santoshnagar, Police Station, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "source": "Hyderabad / Cyberabad / Rachakonda Police",
+        "icon": "shield-alert",
+        "status": "Operational",
+        "coordinates": [
+          78.504742,
+          17.346854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0420",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2751,
+          17.5227
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0420",
+        "name": "Patancheru",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Patancheru Fire Station, Medak, Telangana, India",
+        "district": "Medak",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.2751,
+          17.5227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.408881,
+          17.412703
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0421",
+        "name": "Punjagutta",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Punjagutta Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.408881,
+          17.412703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.421412,
+          17.378231
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0422",
+        "name": "Lungerhouse",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Lungerhouse Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.421412,
+          17.378231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.437877,
+          17.456837
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0423",
+        "name": "Sanathnagar",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Sanathnagar Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.437877,
+          17.456837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0424",
+        "name": "Secunderabad",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Secunderabad Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0425",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.557029,
+          17.438092
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0425",
+        "name": "Moula Ali",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Moula Ali Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.557029,
+          17.438092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0426",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.500757,
+          17.408111
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0426",
+        "name": "Musheerabad",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Musheerabad Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.500757,
+          17.408111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0427",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.479053,
+          17.379675
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0427",
+        "name": "Gowliguda",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Gowliguda Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.479053,
+          17.379675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0428",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.476765,
+          17.359551
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0428",
+        "name": "Moghalpura",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Moghalpura Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.476765,
+          17.359551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0429",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.459238,
+          17.353086
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0429",
+        "name": "Chandulalbaradari",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Chandulalbaradari Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.459238,
+          17.353086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0430",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.501877,
+          17.368345
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0430",
+        "name": "Malakpet",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Malakpet Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.501877,
+          17.368345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0431",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.479053,
+          17.379675
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0431",
+        "name": "Secretariat",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Secretariat Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.479053,
+          17.379675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.391263,
+          17.491417
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0432",
+        "name": "Legislative Assembly",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Legislative Assembly Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.391263,
+          17.491417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0433",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.476765,
+          17.359551
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0433",
+        "name": "High Court",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "High Court Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.476765,
+          17.359551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0434",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0434",
+        "name": "Snorkel",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Snorkel Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0435",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.486671,
+          17.385044
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0435",
+        "name": "Turn Table Ladder",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Turn Table Ladder Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.486671,
+          17.385044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0436",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.480359,
+          17.371322
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0436",
+        "name": "Salarjung Museum",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Salarjung Museum Fire Station, Hyderabad Telangana, India",
+        "district": "Hyderabad",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.480359,
+          17.371322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.439182,
+          17.528501
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0437",
+        "name": "Jeedimetla",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Jeedimetla Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.439182,
+          17.528501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0438",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0438",
+        "name": "Malkajgiri",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Malkajgiri Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0439",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.591084,
+          17.328328
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0439",
+        "name": "Hayathnagar",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Hayathnagar Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.591084,
+          17.328328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0440",
+        "name": "Pargi",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Pargi Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.485504,
+          17.443036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0441",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.374965,
+          17.449274
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0441",
+        "name": "Gachibowli Model Fire Station",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Gachibowli Model Fire Station Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.374965,
+          17.449274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0442",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5985,
+          17.2197
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0442",
+        "name": "Ibrahimpatnam",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Ibrahimpatnam Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.5985,
+          17.2197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0443",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.374965,
+          17.449274
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0443",
+        "name": "Chevella",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Chevella Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.374965,
+          17.449274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0444",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.391263,
+          17.491417
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0444",
+        "name": "Kukatpally",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Kukatpally Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.391263,
+          17.491417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0445",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.374965,
+          17.449274
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0445",
+        "name": "Madhapur",
+        "category": "emergency",
+        "subcategory": "Fire Station",
+        "address": "Madhapur Fire Station, Rangareddy  Telangana, India",
+        "district": "Rangareddy",
+        "source": "Telangana State Disaster Response & Fire Services",
+        "icon": "flame",
+        "status": "Operational",
+        "coordinates": [
+          78.374965,
+          17.449274
+        ]
+      }
+    }
+  ]
+}

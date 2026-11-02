@@ -1,0 +1,1686 @@
+{
+  "type": "FeatureCollection",
+  "name": "Hyderabad_Environment",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "up_hyd_0446",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.562486,
+          17.32472
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0446",
+        "name": "NGO's Colony Park Vanasthalipuram",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Vanasthalipuram",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.562486,
+          17.32472
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0447",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.555835,
+          17.479466
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0447",
+        "name": "Dr. A.S. Rao Nagar Colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Dr. A.S. Rao Nagar",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.555835,
+          17.479466
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0448",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.552894,
+          17.486296
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0448",
+        "name": "Sainikpuri 'E' Sector Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Dr. A.S. Rao Nagar",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.552894,
+          17.486296
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0449",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.574577,
+          17.328157
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0449",
+        "name": "Sachivalaya Nagar Colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Vanasthalipuram",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.574577,
+          17.328157
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.501075,
+          17.374985
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0450",
+        "name": "Palmetum",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Old Malakpet",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.501075,
+          17.374985
+        ],
+        "area": "1.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0451",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.482628,
+          17.375919
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0451",
+        "name": "Imlibun Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Ward TBD",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.482628,
+          17.375919
+        ],
+        "area": "9.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.450243,
+          17.40162
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0452",
+        "name": "Chacha Nehru Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Ward TBD",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.450243,
+          17.40162
+        ],
+        "area": "12.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0453",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.469515,
+          17.40133
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0453",
+        "name": "Gun Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Khairtabad",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.469515,
+          17.40133
+        ],
+        "area": "0.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.481568,
+          17.413926
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0454",
+        "name": "Indira Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Kavadiguda",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.481568,
+          17.413926
+        ],
+        "area": "69.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.497902,
+          17.398507
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0455",
+        "name": "Sundaraiah Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Nallakunta",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.497902,
+          17.398507
+        ],
+        "area": "4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0456",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.440827,
+          17.449681
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0456",
+        "name": "K. Laxminarayana Yadav Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Sanathnagar",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.440827,
+          17.449681
+        ],
+        "area": "8.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0457",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.448332,
+          17.423003
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0457",
+        "name": "Jalagam Vengalrao Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Banjara Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.448332,
+          17.423003
+        ],
+        "area": "9.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0458",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.429974,
+          17.429437
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0458",
+        "name": "Kamalapuri Colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Banjara Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.429974,
+          17.429437
+        ],
+        "area": "1.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.430467,
+          17.439839
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0459",
+        "name": "Krishna Kanth Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Ward TBD",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.430467,
+          17.439839
+        ],
+        "area": "22.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0460",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.410576,
+          17.430371
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0460",
+        "name": "Bamboo Garden",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.410576,
+          17.430371
+        ],
+        "area": "1.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0461",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.408343,
+          17.438766
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0461",
+        "name": "Butterfly Garden",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.408343,
+          17.438766
+        ],
+        "area": "8.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0462",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.412715,
+          17.434843
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0462",
+        "name": "Herbal Garden",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.412715,
+          17.434843
+        ],
+        "area": "12.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0463",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.424319,
+          17.424375
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0463",
+        "name": "Japanese Garden",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.424319,
+          17.424375
+        ],
+        "area": "1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.420111,
+          17.41278
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0464",
+        "name": "Lotus Pond - II Theme Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.420111,
+          17.41278
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0465",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.41957,
+          17.414323
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0465",
+        "name": "Lotus Pond - I Theme Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.41957,
+          17.414323
+        ],
+        "area": "15.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0466",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.405649,
+          17.432562
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0466",
+        "name": "Rainbow Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.405649,
+          17.432562
+        ],
+        "area": "15.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0467",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.29912,
+          17.483363
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0467",
+        "name": "BHEL MIG 'F' Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Bharati Nagar",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.29912,
+          17.483363
+        ],
+        "area": "1.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0468",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.302558,
+          17.48128
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0468",
+        "name": "BHEL Old MIG Navabharath Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Bharati Nagar",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.302558,
+          17.48128
+        ],
+        "area": "1.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0469",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.30914,
+          17.48217
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0469",
+        "name": "BHEL MIG Vivekananda Park L",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Bharati Nagar",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.30914,
+          17.48217
+        ],
+        "area": "1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0470",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.300706,
+          17.494039
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0470",
+        "name": "BHEL MIL Colony Park at Surkhi Office Beside Vani School",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Bharati Nagar",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.300706,
+          17.494039
+        ],
+        "area": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0471",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.319063,
+          17.473559
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0471",
+        "name": "Gulmohar Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Serilingampally",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.319063,
+          17.473559
+        ],
+        "area": "3.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.314008,
+          17.48566
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0472",
+        "name": "HUDA Trade Centre",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Serilingampally",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.314008,
+          17.48566
+        ],
+        "area": "1.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0473",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.366128,
+          17.434439
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0473",
+        "name": "Telecom Nagar Park - I",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Gachibowli",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.366128,
+          17.434439
+        ],
+        "area": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.339767,
+          17.49992
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0474",
+        "name": "Deepthi Srinagar Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Miyapur",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.339767,
+          17.49992
+        ],
+        "area": "2.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.35701,
+          17.504572
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0475",
+        "name": "Jayaprakash Nagar Colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Miyapur",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.35701,
+          17.504572
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.370903,
+          17.513758
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0476",
+        "name": "Mayuri Nagar Colony Park - I",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Miyapur",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.370903,
+          17.513758
+        ],
+        "area": "1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.356522,
+          17.498238
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0477",
+        "name": "Pragathi Enclave Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Miyapur",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.356522,
+          17.498238
+        ],
+        "area": "1.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.303683,
+          17.505578
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0478",
+        "name": "HIG Park \u2013 I",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Ramachandra Puram",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.303683,
+          17.505578
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.385072,
+          17.473089
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0479",
+        "name": "Kukatpally Phase \u2013 VII colony Park - I",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Kukatpally",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.385072,
+          17.473089
+        ],
+        "area": "2.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0480",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.386563,
+          17.485774
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0480",
+        "name": "Kukatpally Phase \u2013 IX colony Park - I",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "KPHB Colony",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.386563,
+          17.485774
+        ],
+        "area": "0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0481",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.425862,
+          17.477936
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0481",
+        "name": "Prashanth Nagar colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Kukatpally",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.425862,
+          17.477936
+        ],
+        "area": "0.62"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0482",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.443452,
+          17.531303
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0482",
+        "name": "SR Naik Nagar Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jeedimetla",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.443452,
+          17.531303
+        ],
+        "area": "1.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.483286,
+          17.509936
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0483",
+        "name": "Minakshi Estate",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jeedimetla",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.483286,
+          17.509936
+        ],
+        "area": "1.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.505734,
+          17.400577
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0484",
+        "name": "Ushodaya ParkL",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Nallakunta",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.505734,
+          17.400577
+        ],
+        "area": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.498445,
+          17.441018
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0485",
+        "name": "Clock Tower Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Ward TBD",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.498445,
+          17.441018
+        ],
+        "area": "1.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.530445,
+          17.354895
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0486",
+        "name": "Priyadarshini Park, Saroornagar",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Malakpet",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.530445,
+          17.354895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0487",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.48929,
+          17.398616
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0487",
+        "name": "Dr. G.S.Melkote Park, Narayanaguda",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Himayathnagar",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.48929,
+          17.398616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0488",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.574419,
+          17.328097
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0488",
+        "name": "HMDA Park - Vanasthalipuram",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Vanasthalipuram",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.574419,
+          17.328097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.569038,
+          17.323982
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0489",
+        "name": "HMDA Park Vanasthalipuram",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Vanasthalipuram",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.569038,
+          17.323982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.571593,
+          17.32984
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0490",
+        "name": "HMDA Park Vanasthalipuram",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Vanasthalipuram",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.571593,
+          17.32984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.579511,
+          17.332418
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0491",
+        "name": "HMDA Sai Nagar Colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Vanasthalipuram",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.579511,
+          17.332418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.568395,
+          17.331746
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0492",
+        "name": "HMDA Vanasthalipuram Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Vanasthalipuram",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.568395,
+          17.331746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.427741,
+          17.496791
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0493",
+        "name": "Asbestos Colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Kukatpally",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.427741,
+          17.496791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0494",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.409557,
+          17.497047
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0494",
+        "name": "Patelkunta Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Kukatpally",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.409557,
+          17.497047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5635,
+          17.335724
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0495",
+        "name": "Chinnatallakunta Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Ward TBD",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.5635,
+          17.335724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0496",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.441842,
+          17.333549
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0496",
+        "name": "Shastripuram Colony Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Shastripuram",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.441842,
+          17.333549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.537465,
+          17.363409
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0497",
+        "name": "HUDA Complex Park, Saroornagar",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Saroornagar",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.537465,
+          17.363409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.413106,
+          17.379722
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0498",
+        "name": "Langerhouz Lake Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Langerhouz",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.413106,
+          17.379722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.549962,
+          17.422389
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0499",
+        "name": "Peddacheruvu Lake Park HMT Colony",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Nacharam",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.549962,
+          17.422389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.556682,
+          17.419283
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0500",
+        "name": "Pedda Cheruvu Bund Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Nacharam",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.556682,
+          17.419283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.393115,
+          17.430549
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0501",
+        "name": "Durgam Cheruvu STP Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Kondapur",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.393115,
+          17.430549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.444557,
+          17.351484
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0502",
+        "name": "Nehru Zoological Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Ramnaspura",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.444557,
+          17.351484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.537147,
+          17.463078
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0503",
+        "name": "Safilguda Lake Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Malkajgiri",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.537147,
+          17.463078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.688773,
+          17.530468
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0504",
+        "name": "Ramalingeshwara Swami Temple, KeesaraL",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "NA",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.688773,
+          17.530468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.421292,
+          17.418922
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0505",
+        "name": "KBR Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jubilee Hills",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.421292,
+          17.418922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.58436,
+          17.339683
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0506",
+        "name": "Mahavir Harina Vanasthali National Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Mansoorabad",
+        "district": "HMDA",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.58436,
+          17.339683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.464968,
+          17.399483
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0507",
+        "name": "Red Hills City Level Park_ed",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Red Hills",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.464968,
+          17.399483
+        ],
+        "area": "1.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.481332,
+          17.385157
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0508",
+        "name": "Feroze Gandhi Park",
+        "category": "environment",
+        "subcategory": "Public Park & Green Space",
+        "address": "Jambagh",
+        "district": "GHMC",
+        "source": "GHMC / HMDA Urban Forestry",
+        "icon": "trees",
+        "status": "Operational",
+        "coordinates": [
+          78.481332,
+          17.385157
+        ],
+        "area": "0.6"
+      }
+    }
+  ]
+}

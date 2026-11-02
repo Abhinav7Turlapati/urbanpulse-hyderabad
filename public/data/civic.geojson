@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "name": "Hyderabad_Civic",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "up_hyd_0569",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4729,
+          17.4042
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0569",
+        "name": "Greater Hyderabad Municipal Corporation (GHMC) Head Office",
+        "category": "civic",
+        "subcategory": "Municipal Headquarters",
+        "address": "Tank Bund Road, Liberty, Hyderabad",
+        "district": "Hyderabad",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.4729,
+          17.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0570",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4682,
+          17.4116
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0570",
+        "name": "Hyderabad Metropolitan Development Authority (HMDA) Complex",
+        "category": "civic",
+        "subcategory": "Urban Planning Authority",
+        "address": "Swarna Jayanti Complex, Ameerpet, Hyderabad",
+        "district": "Hyderabad",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.4682,
+          17.4116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4735,
+          17.4087
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0571",
+        "name": "Telangana State Secretariat (Dr. B.R. Ambedkar Complex)",
+        "category": "civic",
+        "subcategory": "Government Headquarters",
+        "address": "Hussain Sagar Lake Front, Hyderabad",
+        "district": "Hyderabad",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.4735,
+          17.4087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5284,
+          17.4138
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0572",
+        "name": "Osmania University Main Campus",
+        "category": "civic",
+        "subcategory": "Public University",
+        "address": "Amberpet, Hyderabad",
+        "district": "Hyderabad",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.5284,
+          17.4138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.33,
+          17.46
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0573",
+        "name": "University of Hyderabad (HCU)",
+        "category": "civic",
+        "subcategory": "Central University",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Ranga Reddy",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.33,
+          17.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3489,
+          17.4455
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0574",
+        "name": "International Institute of Information Technology (IIIT-H)",
+        "category": "civic",
+        "subcategory": "Autonomous University",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Ranga Reddy",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.3489,
+          17.4455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3914,
+          17.4932
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0575",
+        "name": "Jawaharlal Nehru Technological University (JNTUH)",
+        "category": "civic",
+        "subcategory": "Technical University",
+        "address": "Kukatpally, Hyderabad",
+        "district": "Medchal-Malkajgiri",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.3914,
+          17.4932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3411,
+          17.4338
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0576",
+        "name": "Indian School of Business (ISB)",
+        "category": "civic",
+        "subcategory": "Management Institute",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Ranga Reddy",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.3411,
+          17.4338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4789,
+          17.3703
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0577",
+        "name": "Telangana State Central Library",
+        "category": "civic",
+        "subcategory": "Public Library",
+        "address": "Afzalgunj, Hyderabad",
+        "district": "Hyderabad",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.4789,
+          17.3703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0578",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4804,
+          17.3713
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0578",
+        "name": "Salar Jung Museum & Cultural Centre",
+        "category": "civic",
+        "subcategory": "National Museum",
+        "address": "Darusshifa, Hyderabad",
+        "district": "Hyderabad",
+        "source": "Survey of India / OpenStreetMap",
+        "icon": "landmark",
+        "status": "Operational",
+        "coordinates": [
+          78.4804,
+          17.3713
+        ]
+      }
+    }
+  ]
+}

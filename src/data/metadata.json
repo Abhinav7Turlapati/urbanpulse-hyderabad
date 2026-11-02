@@ -1,0 +1,136 @@
+{
+  "title": "UrbanPulse Hyderabad Geospatial Infrastructure Data Catalog",
+  "city": "Hyderabad, Telangana, India",
+  "center": [
+    78.4867,
+    17.385
+  ],
+  "default_zoom": 11,
+  "total_records": 578,
+  "category_counts": {
+    "healthcare": 303,
+    "transit": 116,
+    "emergency": 86,
+    "environment": 63,
+    "civic": 10
+  },
+  "subcategory_counts": {
+    "Government Hospital": 36,
+    "Private Hospital (Empanelled)": 121,
+    "Primary Health Clinic": 146,
+    "Metro Station": 25,
+    "MMTS Suburban Rail Station": 31,
+    "Police Station": 60,
+    "Fire Station": 26,
+    "Public Park & Green Space": 63,
+    "Major Bus Terminal / Hub": 60,
+    "Municipal Headquarters": 1,
+    "Urban Planning Authority": 1,
+    "Government Headquarters": 1,
+    "Public University": 1,
+    "Central University": 1,
+    "Autonomous University": 1,
+    "Technical University": 1,
+    "Management Institute": 1,
+    "Public Library": 1,
+    "National Museum": 1
+  },
+  "sources": [
+    {
+      "dataset_name": "Government Hospital",
+      "category": "healthcare",
+      "source": "Lakeer Open Data / Telangana Health Dept",
+      "records": 36,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/2.%20Urban%20Poverty/2.2%20Health/Govt%20Hospitals.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Private Hospital (Empanelled)",
+      "category": "healthcare",
+      "source": "Lakeer Open Data / Arogyasri Health Care Trust",
+      "records": 121,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/2.%20Urban%20Poverty/2.2%20Health/Private%20Arogyasri%20Empanelled.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Primary Health Clinic",
+      "category": "healthcare",
+      "source": "Lakeer Open Data / National Health Mission",
+      "records": 146,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/2.%20Urban%20Poverty/2.2%20Health/Govt%20Primary%20Health%20Clinics.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Metro Station",
+      "category": "transit",
+      "source": "Hyderabad Metro Rail / Lakeer Open Data",
+      "records": 25,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/1.%20Basic%20Services/1.1%20Public%20Transport/Stops/Hyderabad_metro_stations.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "MMTS Suburban Rail Station",
+      "category": "transit",
+      "source": "South Central Railway / Lakeer Open Data",
+      "records": 31,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/1.%20Basic%20Services/1.1%20Public%20Transport/Stops/Hyderabad_MMTS_stops.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Police Station",
+      "category": "emergency",
+      "source": "Hyderabad / Cyberabad / Rachakonda Police",
+      "records": 60,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/3.%20Disaster%20Resilience/3.3%20Emergency%20Response%20Services/Police%20Station%20Locations.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Fire Station",
+      "category": "emergency",
+      "source": "Telangana State Disaster Response & Fire Services",
+      "records": 26,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/3.%20Disaster%20Resilience/3.3%20Emergency%20Response%20Services/Fire%20Station%20Locations.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Public Park & Green Space",
+      "category": "environment",
+      "source": "GHMC / HMDA Urban Forestry",
+      "records": 63,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/6.%20Environment/6.1%20Public%20Parks/GHMC%20_%20HMDA%20Parks.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Major Bus Terminals & Hubs",
+      "category": "transit",
+      "source": "TSRTC / Lakeer Open GIS Data",
+      "records": 60,
+      "original_url": "https://raw.githubusercontent.com/Lakeer-org/hyderabad-open-gis-data/master/1.%20Basic%20Services/1.1%20Public%20Transport/Stops/Bus%20Stops.geojson",
+      "license": "Open Data Commons / Open Government Data License India (OGDL)",
+      "last_updated": "2024"
+    },
+    {
+      "dataset_name": "Hyderabad Civic & University Landmarks",
+      "category": "civic",
+      "source": "Survey of India / OpenStreetMap",
+      "records": 10,
+      "original_url": "https://www.openstreetmap.org",
+      "license": "ODbL (Open Database License)",
+      "last_updated": "2024"
+    }
+  ],
+  "limitations": [
+    "Data points represent registered public and empanelled facilities from official state registries up to 2024.",
+    "Newly commissioned health clinics or metro feeder stops under Phase 2 expansion may not yet be reflected.",
+    "Park polygons have been transformed into centroid coordinates for unified spatial clustering and heatmap rendering."
+  ],
+  "attribution": "Datasets compiled from Lakeer Open GIS Data, OpenCity.in, Telangana Open Data Portal, GHMC, HMDA, TSRTC, and OpenStreetMap contributors under OGDL & ODbL licenses."
+}

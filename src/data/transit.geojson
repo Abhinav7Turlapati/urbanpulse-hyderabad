@@ -1,0 +1,3022 @@
+{
+  "type": "FeatureCollection",
+  "name": "Hyderabad_Transit",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "up_hyd_0304",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.447222,
+          17.43254
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0304",
+        "name": "Ameerpet",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.447222,
+          17.43254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.422092,
+          17.478017
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0305",
+        "name": "Balanagar",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.422092,
+          17.478017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0306",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.457131,
+          17.437901
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0306",
+        "name": "Begumpet",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.457131,
+          17.437901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.430523,
+          17.467865
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0307",
+        "name": "Bharatnagar",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.430523,
+          17.467865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.433956,
+          17.462783
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0308",
+        "name": "Erragadda Road",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.433956,
+          17.462783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.439302,
+          17.447596
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0309",
+        "name": "ESI Hospital",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.439302,
+          17.447596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.540548,
+          17.420378
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0310",
+        "name": "Habsiguda",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.540548,
+          17.420378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.388758,
+          17.499621
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0311",
+        "name": "J.N.T.U College",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.388758,
+          17.499621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.40173,
+          17.493973
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0312",
+        "name": "K.P.H.B. Colony",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.40173,
+          17.493973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.411546,
+          17.486155
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0313",
+        "name": "Kukatpally",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.411546,
+          17.486155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.519539,
+          17.435981
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0314",
+        "name": "Mettuguda",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.519539,
+          17.435981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.373452,
+          17.502306
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0315",
+        "name": "Miyapur",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.373452,
+          17.502306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0316",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.426323,
+          17.479335
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0316",
+        "name": "Moosapet",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.426323,
+          17.479335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.558502,
+          17.397753
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0317",
+        "name": "Nagole",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.558502,
+          17.397753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.546245,
+          17.415034
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0318",
+        "name": "Ngri",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.546245,
+          17.415034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.498936,
+          17.446864
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0319",
+        "name": "Parade Grounds",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.498936,
+          17.446864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0320",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.471217,
+          17.411458
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0320",
+        "name": "Paradise_Khairtabad",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.471217,
+          17.411458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.545562,
+          17.405161
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0321",
+        "name": "Paradise_Habsiguda",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.545562,
+          17.405161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.465826,
+          17.445084
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0322",
+        "name": "Prakash Nagar",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.465826,
+          17.445084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.476448,
+          17.444099
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0323",
+        "name": "Rasoolpura",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.476448,
+          17.444099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0324",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.441738,
+          17.442463
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0324",
+        "name": "S.R Nagar",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.441738,
+          17.442463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.505338,
+          17.439799
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0325",
+        "name": "Secunderabad",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.505338,
+          17.439799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.554204,
+          17.407709
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0326",
+        "name": "Stadium",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.554204,
+          17.407709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0327",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.528512,
+          17.43161
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0327",
+        "name": "Tarnaka",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.528512,
+          17.43161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.56056,
+          17.40202
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0328",
+        "name": "Uppal",
+        "category": "transit",
+        "subcategory": "Metro Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "Hyderabad Metro Rail / Lakeer Open Data",
+        "icon": "train",
+        "status": "Operational",
+        "coordinates": [
+          78.56056,
+          17.40202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.519292,
+          17.41808
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0329",
+        "name": "Arts College",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.519292,
+          17.41808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0330",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.458278,
+          17.438913
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0330",
+        "name": "Begumpet",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.458278,
+          17.438913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.429409,
+          17.462441
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0331",
+        "name": "Bharatnagar",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.429409,
+          17.462441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.407864,
+          17.45945
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0332",
+        "name": "Borabanda",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.407864,
+          17.45945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0333",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.423094,
+          17.311252
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0333",
+        "name": "Budvel",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.423094,
+          17.311252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.33268,
+          17.487582
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0334",
+        "name": "Chandanagar",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.33268,
+          17.487582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.490456,
+          17.366787
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0335",
+        "name": "Dabirpura",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.490456,
+          17.366787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0336",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.474347,
+          17.328298
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0336",
+        "name": "Falaknuma",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.474347,
+          17.328298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.450266,
+          17.456086
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0337",
+        "name": "Fatehnagar",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.450266,
+          17.456086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.363021,
+          17.483031
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0338",
+        "name": "Hafeezpet",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.363021,
+          17.483031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.385318,
+          17.469992
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0339",
+        "name": "Hitech City",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.385318,
+          17.469992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.48249,
+          17.341555
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0340",
+        "name": "Huppuguda",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.48249,
+          17.341555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.467579,
+          17.392741
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0341",
+        "name": "Hyderabad",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.467579,
+          17.392741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.518317,
+          17.411729
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0342",
+        "name": "Jamai Osmania",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.518317,
+          17.411729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0343",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.487273,
+          17.433109
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0343",
+        "name": "James Street",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.487273,
+          17.433109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.499261,
+          17.389513
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0344",
+        "name": "Kacheguda",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.499261,
+          17.389513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46053,
+          17.412629
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0345",
+        "name": "Khairatabad",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.46053,
+          17.412629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.463355,
+          17.404235
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0346",
+        "name": "Lakdikapul",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.463355,
+          17.404235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.524504,
+          17.441018
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0347",
+        "name": "Lallaguda Gate",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.524504,
+          17.441018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.317798,
+          17.483298
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0348",
+        "name": "Lingampally",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.317798,
+          17.483298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.494782,
+          17.37648
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0349",
+        "name": "Malakpet",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.494782,
+          17.37648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.530237,
+          17.455953
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0350",
+        "name": "Malkajgiri",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.530237,
+          17.455953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.452214,
+          17.445949
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0351",
+        "name": "NatureCureHospital",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.452214,
+          17.445949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.462816,
+          17.424711
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0352",
+        "name": "Necklace Road",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.462816,
+          17.424711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.437111,
+          17.323699
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0353",
+        "name": "NPA Shivrampalli",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.437111,
+          17.323699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0354",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.476721,
+          17.435708
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0354",
+        "name": "SanjeevaiahPark",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.476721,
+          17.435708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.501655,
+          17.434006
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0355",
+        "name": "Secunderabad",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.501655,
+          17.434006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.519625,
+          17.429461
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0356",
+        "name": "Sitafalmandi",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.519625,
+          17.429461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.393105,
+          17.263602
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0357",
+        "name": "Umdanagar",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.393105,
+          17.263602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.511161,
+          17.402485
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0358",
+        "name": "Vidyanagar",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.511161,
+          17.402485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0359",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.492113,
+          17.36032
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0359",
+        "name": "Yakutpura",
+        "category": "transit",
+        "subcategory": "MMTS Suburban Rail Station",
+        "address": "Greater Hyderabad Area",
+        "district": "Hyderabad",
+        "source": "South Central Railway / Lakeer Open Data",
+        "icon": "train-track",
+        "status": "Operational",
+        "coordinates": [
+          78.492113,
+          17.36032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46879,
+          17.36798
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0509",
+        "name": "Afzalgunj",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Afzalgunj, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.46879,
+          17.36798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47585,
+          17.3736
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0510",
+        "name": "Afzalgunj",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Afzalgunj, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.47585,
+          17.3736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47719,
+          17.3739
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0511",
+        "name": "Afzalgunj",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Afzalgunj, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.47719,
+          17.3739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0512",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47533,
+          17.37622
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0512",
+        "name": "Afzalgunj",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Afzalgunj, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.47533,
+          17.37622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47659,
+          17.37301
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0513",
+        "name": "Afzalgunj Terminal",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Afzalgunj Terminal, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.47659,
+          17.37301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55665,
+          17.36503
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0514",
+        "name": "Alakapuri Colony Uppal",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Alakapuri Colony Uppal, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.55665,
+          17.36503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4463,
+          17.43404
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0515",
+        "name": "Ameerpet",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.4463,
+          17.43404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44758,
+          17.43161
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0516",
+        "name": "Ameerpet",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44758,
+          17.43161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45044,
+          17.42966
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0517",
+        "name": "Ameerpet",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.45044,
+          17.42966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44825,
+          17.43745
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0518",
+        "name": "Ameerpet",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44825,
+          17.43745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44412,
+          17.43608
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0519",
+        "name": "Ameerpet (Pickup Van)",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet (Pickup Van), Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44412,
+          17.43608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0520",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44889,
+          17.43461
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0520",
+        "name": "Ameerpet / Sheesh Mahal",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet / Sheesh Mahal, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44889,
+          17.43461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44867,
+          17.43441
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0521",
+        "name": "Ameerpet / Sheesh Mahal",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet / Sheesh Mahal, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44867,
+          17.43441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44794,
+          17.43458
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0522",
+        "name": "Ameerpet Bus Stop",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet Bus Stop, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44794,
+          17.43458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44828,
+          17.43605
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0523",
+        "name": "Ameerpet Near Gurudwara",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet Near Gurudwara, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44828,
+          17.43605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44822,
+          17.43698
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0524",
+        "name": "Ameerpet Satyam Theatre",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ameerpet Satyam Theatre, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44822,
+          17.43698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57089,
+          17.4735
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0525",
+        "name": "Andhra Pradesh State Road Transport Corporation- Ecil Bus Stop",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Andhra Pradesh State Road Transport Corporation- Ecil Bus Stop, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57089,
+          17.4735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.49701,
+          17.39711
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0526",
+        "name": "Bagh Lingampally",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Bagh Lingampally, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.49701,
+          17.39711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.49599,
+          17.39645
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0527",
+        "name": "Baghlingampally",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Baghlingampally, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.49599,
+          17.39645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.49606,
+          17.39663
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0528",
+        "name": "Baghlingampally",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Baghlingampally, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.49606,
+          17.39663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.58043,
+          17.42208
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0529",
+        "name": "Boduppal Bus Stop",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Boduppal Bus Stop, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.58043,
+          17.42208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.58669,
+          17.40452
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0530",
+        "name": "Boduppal Bus Stop",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Boduppal Bus Stop, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.58669,
+          17.40452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.58683,
+          17.4046
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0531",
+        "name": "Boduppal Line Bus Stop",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Boduppal Line Bus Stop, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.58683,
+          17.4046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.58666,
+          17.40452
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0532",
+        "name": "Boduppal X Road",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Boduppal X Road, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.58666,
+          17.40452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0533",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.44251,
+          17.43273
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0533",
+        "name": "Bus Stop - Ameerpet",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Bus Stop - Ameerpet, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.44251,
+          17.43273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3705,
+          17.43223
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0534",
+        "name": "Bus Stop - Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Bus Stop - Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.3705,
+          17.43223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.30488,
+          17.48309
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0535",
+        "name": "Bus Stop - Serilingampally",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Bus Stop - Serilingampally, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.30488,
+          17.48309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0536",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47423,
+          17.35938
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0536",
+        "name": "Charminar",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Charminar, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.47423,
+          17.35938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47471,
+          17.36229
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0537",
+        "name": "Charminar",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Charminar, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.47471,
+          17.36229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47375,
+          17.35902
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0538",
+        "name": "Charminar Bus Station",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Charminar Bus Station, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.47375,
+          17.35902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0539",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.39451,
+          17.4133
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0539",
+        "name": "Darga-Lingampally",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Darga-Lingampally, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.39451,
+          17.4133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0540",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46596,
+          17.39107
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0540",
+        "name": "Dargah Nampally",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dargah Nampally, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.46596,
+          17.39107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46736,
+          17.39087
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0541",
+        "name": "Dargah Nampally",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dargah Nampally, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.46736,
+          17.39087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0542",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.39626,
+          17.41179
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0542",
+        "name": "Dargah-Mehdipatnam",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dargah-Mehdipatnam, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.39626,
+          17.41179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0543",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5227,
+          17.36842
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0543",
+        "name": "Dilsukhnagar",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dilsukhnagar, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.5227,
+          17.36842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0544",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.52738,
+          17.36856
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0544",
+        "name": "Dilsukhnagar",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dilsukhnagar, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.52738,
+          17.36856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.52916,
+          17.36835
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0545",
+        "name": "Dilsukhnagar",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dilsukhnagar, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.52916,
+          17.36835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.52395,
+          17.36878
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0546",
+        "name": "Dilsukhnagar",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dilsukhnagar, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.52395,
+          17.36878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0547",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.52518,
+          17.36973
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0547",
+        "name": "Dilsukhnagar Bus Depot",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dilsukhnagar Bus Depot, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.52518,
+          17.36973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.52506,
+          17.36896
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0548",
+        "name": "Dilsukhnagar Bus Station",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Dilsukhnagar Bus Station, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.52506,
+          17.36896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5693,
+          17.4722
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0549",
+        "name": "Ecil",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.5693,
+          17.4722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57003,
+          17.47235
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0550",
+        "name": "Ecil",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57003,
+          17.47235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0551",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57001,
+          17.47285
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0551",
+        "name": "Ecil",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57001,
+          17.47285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.56809,
+          17.47497
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0552",
+        "name": "Ecil",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.56809,
+          17.47497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0553",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57021,
+          17.47252
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0553",
+        "name": "Ecil Bus Pass Counter & Bus Stop",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil Bus Pass Counter & Bus Stop, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57021,
+          17.47252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57386,
+          17.46723
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0554",
+        "name": "Ecil Factory",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil Factory, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57386,
+          17.46723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.56636,
+          17.47021
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0555",
+        "name": "Ecil Pickup Van/Bus",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil Pickup Van/Bus, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.56636,
+          17.47021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57123,
+          17.47398
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0556",
+        "name": "Ecil X Road",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil X Road, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57123,
+          17.47398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0557",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57064,
+          17.47262
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0557",
+        "name": "Ecil X Road",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil X Road, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57064,
+          17.47262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0558",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57037,
+          17.47308
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0558",
+        "name": "Ecil X Road",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil X Road, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57037,
+          17.47308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0559",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57012,
+          17.47358
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0559",
+        "name": "Ecil X Road",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil X Road, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57012,
+          17.47358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0560",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57103,
+          17.47347
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0560",
+        "name": "Ecil X Roads",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Ecil X Roads, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.57103,
+          17.47347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.37456,
+          17.42898
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0561",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.37456,
+          17.42898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.33598,
+          17.46169
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0562",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.33598,
+          17.46169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.35259,
+          17.44511
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0563",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.35259,
+          17.44511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.36285,
+          17.44294
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0564",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.36285,
+          17.44294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3636,
+          17.43985
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0565",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.3636,
+          17.43985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.36391,
+          17.43862
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0566",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.36391,
+          17.43862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.36828,
+          17.43487
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0567",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.36828,
+          17.43487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "up_hyd_0568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.36268,
+          17.44114
+        ]
+      },
+      "properties": {
+        "id": "up_hyd_0568",
+        "name": "Gachibowli",
+        "category": "transit",
+        "subcategory": "Major Bus Terminal / Hub",
+        "address": "Gachibowli, Hyderabad",
+        "district": "Hyderabad",
+        "source": "TSRTC / Lakeer Open GIS Data",
+        "icon": "bus",
+        "status": "Active Hub",
+        "coordinates": [
+          78.36268,
+          17.44114
+        ]
+      }
+    }
+  ]
+}

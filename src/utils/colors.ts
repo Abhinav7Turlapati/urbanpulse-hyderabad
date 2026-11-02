@@ -75,3 +75,4 @@ export const SUBCATEGORY_COLORS: Record<string, string> = {
 export function getCategoryColor(category: CategoryType): string {
   return CATEGORY_COLORS[category]?.hex || '#94A3B8';
 }
+

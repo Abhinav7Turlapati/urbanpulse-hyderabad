@@ -36,6 +36,7 @@ export const MAP_STYLES: MapStyleOption[] = [
       // Return a basic style spec for OSM raster
       return {
         version: 8,
+        glyphs: 'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
         sources: {
           'osm-tiles': {
             type: 'raster',
@@ -129,3 +130,4 @@ export class MapProviderAdapter {
     return this.getSelectedStyle().requiresAws && Boolean(this.awsConfig.apiKey);
   }
 }
+

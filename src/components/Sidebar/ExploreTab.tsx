@@ -48,16 +48,16 @@ export const ExploreTab: React.FC<ExploreTabProps> = ({
         return false;
       }
       // District check
-      if (filterState.district !== 'all' && p.district.toLowerCase() !== filterState.district.toLowerCase()) {
+      if (filterState.district !== 'all' && p.district?.toLowerCase() !== filterState.district.toLowerCase()) {
         return false;
       }
       // Search query
       if (filterState.searchQuery.trim()) {
         const q = filterState.searchQuery.toLowerCase();
-        return (
-          p.name.toLowerCase().includes(q) ||
-          p.address.toLowerCase().includes(q) ||
-          p.subcategory.toLowerCase().includes(q)
+        return Boolean(
+          p.name?.toLowerCase().includes(q) ||
+          p.address?.toLowerCase().includes(q) ||
+          p.subcategory?.toLowerCase().includes(q)
         );
       }
       return true;

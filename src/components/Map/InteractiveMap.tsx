@@ -36,6 +36,7 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const popupRef = useRef<maplibregl.Popup | null>(null);
+  const clustersEnabledRef = useRef<boolean>(filterState.showClusters);
 
   // Compute filtered GeoJSON based on filterState
   const getFilteredGeoJSON = useCallback((): InfrastructureGeoJSON => {
@@ -44,7 +45,7 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
     }
 
     const filteredFeatures = data.features.filter(feature => {
-      const props = feature.properties;
+      const props = feature.properties || ({} as any);
 
       // 1. Category filter
       if (!filterState.categories[props.category]) {
@@ -57,17 +58,17 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
       }
 
       // 3. District filter
-      if (filterState.district !== 'all' && props.district.toLowerCase() !== filterState.district.toLowerCase()) {
+      if (filterState.district !== 'all' && props.district?.toLowerCase() !== filterState.district.toLowerCase()) {
         return false;
       }
 
       // 4. Search query
       if (filterState.searchQuery.trim()) {
         const query = filterState.searchQuery.toLowerCase();
-        const matchesName = props.name.toLowerCase().includes(query);
-        const matchesAddr = props.address.toLowerCase().includes(query);
-        const matchesSubcat = props.subcategory.toLowerCase().includes(query);
-        const matchesDistrict = props.district.toLowerCase().includes(query);
+        const matchesName = props.name?.toLowerCase().includes(query);
+        const matchesAddr = props.address?.toLowerCase().includes(query);
+        const matchesSubcat = props.subcategory?.toLowerCase().includes(query);
+        const matchesDistrict = props.district?.toLowerCase().includes(query);
         if (!matchesName && !matchesAddr && !matchesSubcat && !matchesDistrict) {
           return false;
         }
@@ -329,9 +330,9 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
       attributionControl: false
     });
 
-    // Add navigation controls
-    map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'top-right');
-    map.addControl(new maplibregl.FullscreenControl(), 'top-right');
+    // Add navigation controls in bottom-right corner to preserve floating top bar
+    map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'bottom-right');
+    map.addControl(new maplibregl.FullscreenControl(), 'bottom-right');
     map.addControl(new maplibregl.ScaleControl({ maxWidth: 100, unit: 'metric' }), 'bottom-right');
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
 
@@ -354,17 +355,30 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
       if (!features.length) return;
       const clusterId = features[0].properties.cluster_id;
       const source = map.getSource('hyderabad-infra') as maplibregl.GeoJSONSource;
+      const geom = features[0].geometry as any;
+
+      if (!source || !geom) return;
+
+      const easeToZoom = (zoomLevel: number) => {
+        map.easeTo({
+          center: geom.coordinates,
+          zoom: Math.min(zoomLevel + 0.5, 17),
+          duration: 600
+        });
+      };
 
       try {
         const zoom = await source.getClusterExpansionZoom(clusterId);
-        const geom = features[0].geometry as any;
+        if (typeof zoom === 'number') {
+          easeToZoom(zoom);
+        }
+      } catch (err) {
+        // Fallback: zoom by 2 levels towards cluster
         map.easeTo({
           center: geom.coordinates,
-          zoom: zoom + 0.5,
-          duration: 600
+          zoom: map.getZoom() + 2,
+          duration: 500
         });
-      } catch (err) {
-        console.warn('Error expanding cluster:', err);
       }
     });
 
@@ -459,8 +473,8 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
     const filtered = getFilteredGeoJSON();
 
     // If cluster toggle changed, we need to rebuild source
-    const currentSource = map.getSource('hyderabad-infra') as any;
-    if (currentSource && currentSource.cluster !== filterState.showClusters) {
+    if (clustersEnabledRef.current !== filterState.showClusters) {
+      clustersEnabledRef.current = filterState.showClusters;
       // Re-initialize layers with new cluster setting
       if (map.getLayer('clusters')) map.removeLayer('clusters');
       if (map.getLayer('cluster-count')) map.removeLayer('cluster-count');
@@ -472,7 +486,7 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
 
       setupLayers(map, filtered);
     } else {
-      // Just update GeoJSON data
+      // Just update GeoJSON data smoothly
       const source = map.getSource('hyderabad-infra') as maplibregl.GeoJSONSource;
       if (source) {
         source.setData(filtered as any);
@@ -491,6 +505,7 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
       }
       if (map.getLayer('unclustered-point')) {
         map.setLayoutProperty('unclustered-point', 'visibility', filterState.showPoints ? 'visible' : 'none');
+        map.setFilter('unclustered-point', filterState.showClusters ? ['!', ['has', 'point_count']] : ['all']);
       }
       if (map.getLayer('hyderabad-heatmap')) {
         map.setLayoutProperty('hyderabad-heatmap', 'visibility', filterState.showHeatmap ? 'visible' : 'none');

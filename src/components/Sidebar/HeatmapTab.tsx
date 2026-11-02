@@ -188,3 +188,4 @@ export const HeatmapTab: React.FC<HeatmapTabProps> = ({
     </div>
   );
 };
+

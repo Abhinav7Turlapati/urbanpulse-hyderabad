@@ -289,3 +289,4 @@ The repository includes a ready-to-use `vercel.json` with client-side rewrites a
 - **Datasets**: Curated by [Lakeer Urban Data Non-Profit](https://github.com/Lakeer-org/hyderabad-open-gis-data), [OpenCity.in](https://opencity.in), Government of Telangana (Arogyasri Health Care Trust, HMDA, GHMC), and [OpenStreetMap](https://www.openstreetmap.org) contributors.
 - **Map Vector Tiles**: CartoDB / OpenStreetMap contributors.
 - **Application Code**: MIT License. Built for the AWS Builder Center Weekend Challenge: Map It.
+

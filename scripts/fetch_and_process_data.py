@@ -99,6 +99,21 @@ def clean_name(name):
         name = name.title()
     return name
 
+def normalize_district(dist):
+    if not dist or str(dist).strip() in ["None", "", "null"]:
+        return "Hyderabad"
+    d = str(dist).strip()
+    d_lower = d.lower()
+    if d_lower in ["rangareddy", "ranga reddy", "rr"]:
+        return "Ranga Reddy"
+    if d_lower in ["medchal", "medchal-malkajgiri", "medchal malkajgiri"]:
+        return "Medchal-Malkajgiri"
+    if d_lower in ["ghmc", "hmda"]:
+        return "Hyderabad"
+    if d_lower in ["medak", "sangareddy"]:
+        return d.title()
+    return d.title()
+
 def get_centroid(coords, geom_type):
     if geom_type == "Point":
         return coords[0], coords[1]
@@ -201,12 +216,12 @@ def main():
                        "Greater Hyderabad Area")
             address = str(address).strip()
             
-            district = (props.get("District") or 
-                        props.get("DISTNAME") or 
-                        props.get("City/District") or 
-                        props.get("Jurisdictn") or 
-                        "Hyderabad")
-            district = str(district).strip()
+            raw_district = (props.get("District") or 
+                            props.get("DISTNAME") or 
+                            props.get("City/District") or 
+                            props.get("Jurisdictn") or 
+                            "Hyderabad")
+            district = normalize_district(raw_district)
             
             specialities = props.get(src.get("spec_field", "")) or ""
             phone = props.get(src.get("phone_field", "")) or ""
@@ -443,3 +458,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

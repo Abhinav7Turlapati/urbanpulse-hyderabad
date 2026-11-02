@@ -85,3 +85,4 @@ export const MapLegend: React.FC<MapLegendProps> = ({
     </div>
   );
 };
+

@@ -34,3 +34,4 @@ export function saveAwsConfig(config: AwsIntegrationConfig): void {
     console.error('Failed to save AWS config', e);
   }
 }
+

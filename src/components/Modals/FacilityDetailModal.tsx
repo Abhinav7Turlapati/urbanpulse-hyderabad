@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   X, 
   MapPin, 
@@ -27,6 +27,14 @@ export const FacilityDetailModal: React.FC<FacilityDetailModalProps> = ({
   onFlyTo
 }) => {
   const [copied, setCopied] = useState(false);
+
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose();
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [onClose]);
 
   if (!feature) return null;
 
@@ -206,3 +214,4 @@ export const FacilityDetailModal: React.FC<FacilityDetailModalProps> = ({
     </div>
   );
 };
+

@@ -25,10 +25,10 @@ export default defineConfig({
     chunkSizeWarningLimit: 1200,
     rollupOptions: {
       output: {
-        manualChunks: {
-          'vendor-map': ['maplibre-gl'],
-          'vendor-charts': ['recharts'],
-          'vendor-react': ['react', 'react-dom']
+        manualChunks: (id) => {
+          if (id.includes('maplibre-gl')) return 'vendor-map';
+          if (id.includes('recharts')) return 'vendor-charts';
+          if (id.includes('lucide-react')) return 'vendor-icons';
         }
       }
     }

@@ -1,0 +1,100 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: UrbanPulse Hyderabad Geospatial Infrastructure - Amazon Location Service & S3 Data Lake
+
+Parameters:
+  ProjectName:
+    Type: String
+    Default: urbanpulse
+    Description: Prefix for resource naming.
+  
+  MapStyle:
+    Type: String
+    Default: VectorEsriDarkGrayCanvas
+    AllowedValues:
+      - VectorEsriDarkGrayCanvas
+      - VectorEsriNavigation
+      - VectorHereExplore
+      - VectorHereExploreTruck
+    Description: Basemap vector tile style for Amazon Location Service.
+
+Resources:
+  # 1. Amazon Location Service Map Resource
+  UrbanPulseMap:
+    Type: AWS::Location::Map
+    Properties:
+      MapName: !Sub '${ProjectName}-hyderabad-map'
+      Configuration:
+        Style: !Ref MapStyle
+      Description: 'Hyderabad Smart City Vector Map Style for UrbanPulse'
+
+  # 2. Amazon Location Service API Key
+  UrbanPulseApiKey:
+    Type: AWS::Location::APIKey
+    Properties:
+      KeyName: !Sub '${ProjectName}-api-key'
+      Description: 'API Key for UrbanPulse client-side map rendering'
+      Restrictions:
+        AllowActions:
+          - 'geo:GetMap*'
+        AllowResources:
+          - !GetAtt UrbanPulseMap.Arn
+
+  # 3. Amazon S3 Geospatial Data Lake Bucket
+  UrbanPulseDataBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub '${ProjectName}-geodata-${AWS::AccountId}-${AWS::Region}'
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: false
+        BlockPublicPolicy: false
+        IgnorePublicAcls: false
+        RestrictPublicBuckets: false
+      CorsConfiguration:
+        CorsRules:
+          - AllowedHeaders:
+              - '*'
+            AllowedMethods:
+              - GET
+              - HEAD
+            AllowedOrigins:
+              - '*'
+            MaxAge: 3600
+
+  # 4. S3 Bucket Policy for Public Read Access to Datasets
+  UrbanPulseDataBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref UrbanPulseDataBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Sid: PublicReadForGeoJSONDatasets
+            Effect: Allow
+            Principal: '*'
+            Action: 's3:GetObject'
+            Resource: !Sub '${UrbanPulseDataBucket.Arn}/*'
+
+Outputs:
+  Region:
+    Description: AWS Region where resources are deployed
+    Value: !Ref 'AWS::Region'
+
+  MapName:
+    Description: Amazon Location Map Name to configure in UrbanPulse
+    Value: !Ref UrbanPulseMap
+
+  MapArn:
+    Description: ARN of the Amazon Location Map Resource
+    Value: !GetAtt UrbanPulseMap.Arn
+
+  ApiKeyName:
+    Description: Name of the generated Amazon Location API Key
+    Value: !Ref UrbanPulseApiKey
+
+  S3BucketName:
+    Description: Amazon S3 Bucket Name for GeoJSON storage
+    Value: !Ref UrbanPulseDataBucket
+
+  S3BucketUrl:
+    Description: S3 Bucket Root URL for UrbanPulse dataset loader
+    Value: !Sub 'https://${UrbanPulseDataBucket}.s3.${AWS::Region}.amazonaws.com'

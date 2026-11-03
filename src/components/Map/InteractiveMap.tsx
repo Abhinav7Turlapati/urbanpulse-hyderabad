@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useCallback } from 'react';
+import React, { useEffect, useRef, useCallback, useState } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { 
@@ -37,6 +37,7 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
   const mapRef = useRef<maplibregl.Map | null>(null);
   const popupRef = useRef<maplibregl.Popup | null>(null);
   const clustersEnabledRef = useRef<boolean>(filterState.showClusters);
+  const [webglSupported, setWebglSupported] = useState<boolean>(true);
 
   // Compute filtered GeoJSON based on filterState
   const getFilteredGeoJSON = useCallback((): InfrastructureGeoJSON => {
@@ -316,38 +317,49 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
   useEffect(() => {
     if (!mapContainerRef.current) return;
 
-    const map = new maplibregl.Map({
-      container: mapContainerRef.current,
-      style: styleUrl as any,
-      center: HYDERABAD_CENTER,
-      zoom: HYDERABAD_DEFAULT_ZOOM,
-      pitch: 30, // 30-degree isometric pitch for a modern 3D look
-      bearing: 0,
-      maxBounds: [
-        [77.7, 16.8], // Southwest
-        [79.2, 17.9]  // Northeast
-      ],
-      attributionControl: false
-    });
+    try {
+      const isSupported = typeof (maplibregl as any).supported === 'function' 
+        ? (maplibregl as any).supported() 
+        : true;
 
-    // Add navigation controls in bottom-right corner to preserve floating top bar
-    map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'bottom-right');
-    map.addControl(new maplibregl.FullscreenControl(), 'bottom-right');
-    map.addControl(new maplibregl.ScaleControl({ maxWidth: 100, unit: 'metric' }), 'bottom-right');
-    map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
-
-    mapRef.current = map;
-
-    map.on('load', () => {
-      setupLayers(map, getFilteredGeoJSON());
-      updateViewportStats();
-      if (onMapLoaded) {
-        onMapLoaded(map);
+      if (!isSupported) {
+        console.warn('[UrbanPulse Map] WebGL not supported in current environment.');
+        setWebglSupported(false);
+        return;
       }
-    });
 
-    map.on('moveend', updateViewportStats);
-    map.on('zoomend', updateViewportStats);
+      const map = new maplibregl.Map({
+        container: mapContainerRef.current,
+        style: styleUrl as any,
+        center: HYDERABAD_CENTER,
+        zoom: HYDERABAD_DEFAULT_ZOOM,
+        pitch: 30, // 30-degree isometric pitch for a modern 3D look
+        bearing: 0,
+        maxBounds: [
+          [77.7, 16.8], // Southwest
+          [79.2, 17.9]  // Northeast
+        ],
+        attributionControl: false
+      });
+
+      // Add navigation controls in bottom-right corner to preserve floating top bar
+      map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'bottom-right');
+      map.addControl(new maplibregl.FullscreenControl(), 'bottom-right');
+      map.addControl(new maplibregl.ScaleControl({ maxWidth: 100, unit: 'metric' }), 'bottom-right');
+      map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
+
+      mapRef.current = map;
+
+      map.on('load', () => {
+        setupLayers(map, getFilteredGeoJSON());
+        updateViewportStats();
+        if (onMapLoaded) {
+          onMapLoaded(map);
+        }
+      });
+
+      map.on('moveend', updateViewportStats);
+      map.on('zoomend', updateViewportStats);
 
     // Click on Clusters -> Expand
     map.on('click', 'clusters', async (e) => {
@@ -439,13 +451,19 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
     map.on('mouseleave', 'unclustered-point', () => {
       map.getCanvas().style.cursor = '';
     });
+    } catch (err) {
+      console.warn('[UrbanPulse Map] WebGL error caught:', err);
+      setWebglSupported(false);
+    }
 
     return () => {
       if (popupRef.current) {
         popupRef.current.remove();
       }
-      map.remove();
-      mapRef.current = null;
+      if (mapRef.current) {
+        mapRef.current.remove();
+        mapRef.current = null;
+      }
     };
   }, []); // Run once on mount
 
@@ -540,6 +558,22 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
 
   return (
     <div className="relative w-full h-full overflow-hidden">
+      {!webglSupported && (
+        <div className="absolute inset-0 z-10 flex flex-col items-center justify-center bg-cyber-navy/95 p-6 text-center">
+          <div className="p-3 rounded-2xl bg-amber-500/10 border border-amber-500/30 text-amber-400 mb-3">
+            <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+            </svg>
+          </div>
+          <h3 className="text-base font-bold text-white mb-1">WebGL Acceleration Notice</h3>
+          <p className="text-xs text-slate-400 max-w-md leading-relaxed mb-4">
+            WebGL is not active in this browser mode. Enable hardware acceleration in your browser settings to render the 3D map canvas. The full sidebar directory, KPI analytics, and data tools remain operational.
+          </p>
+          <div className="text-[11px] font-mono text-cyan-300 bg-cyber-surface/90 px-3 py-1.5 rounded-lg border border-cyber-border">
+            Hyderabad Coordinates: 17.3850° N, 78.4867° E | 578 Verified Records
+          </div>
+        </div>
+      )}
       <div ref={mapContainerRef} className="w-full h-full" />
     </div>
   );

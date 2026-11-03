@@ -98,3 +98,4 @@ Outputs:
   S3BucketUrl:
     Description: S3 Bucket Root URL for UrbanPulse dataset loader
     Value: !Sub 'https://${UrbanPulseDataBucket}.s3.${AWS::Region}.amazonaws.com'
+
